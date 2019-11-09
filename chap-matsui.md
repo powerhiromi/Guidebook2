@@ -6,6 +6,7 @@
 技術書名古屋の陣[^nagoya]　
 
 日時  12月22日(日) 15:30～17:30(開場 15:00,撤収完了 18:00)
+
 会場  ベースキャンプ名古屋  https://basecamp-nagoya.jp/
 
 [^nagoya]: 技術書名古屋の陣 https://connpass.com/event/154301/
